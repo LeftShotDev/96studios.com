@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://96studios.netlify.com/* https://96studios.com/:splat 301!
